@@ -38,6 +38,9 @@
   },
   "name":"Project-Pen",
   "resources":[
+    {"id":{"name":"camera","path":"objects/camera/camera.yy",},},
+    {"id":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},},
+    {"id":{"name":"obj_PlayerFrente","path":"objects/obj_PlayerFrente/obj_PlayerFrente.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_atqCorretivo","path":"sprites/spr_atqCorretivo/spr_atqCorretivo.yy",},},
     {"id":{"name":"spr_borracha_ataqueCostas","path":"sprites/spr_borracha_ataqueCostas/spr_borracha_ataqueCostas.yy",},},
@@ -73,6 +76,7 @@
     {"id":{"name":"spr_PlayerDireita","path":"sprites/spr_PlayerDireita/spr_PlayerDireita.yy",},},
     {"id":{"name":"spr_PlayerEsquerda_Correndo","path":"sprites/spr_PlayerEsquerda_Correndo/spr_PlayerEsquerda_Correndo.yy",},},
     {"id":{"name":"spr_PlayerEsquerda","path":"sprites/spr_PlayerEsquerda/spr_PlayerEsquerda.yy",},},
+    {"id":{"name":"spr_PlayerFrente_1","path":"sprites/spr_PlayerFrente_1/spr_PlayerFrente_1.yy",},},
     {"id":{"name":"spr_PlayerFrente_Correndo","path":"sprites/spr_PlayerFrente_Correndo/spr_PlayerFrente_Correndo.yy",},},
     {"id":{"name":"spr_PlayerFrente","path":"sprites/spr_PlayerFrente/spr_PlayerFrente.yy",},},
     {"id":{"name":"spr_PlayerSombra","path":"sprites/spr_PlayerSombra/spr_PlayerSombra.yy",},},
